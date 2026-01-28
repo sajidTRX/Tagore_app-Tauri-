@@ -170,7 +170,7 @@ export default function LandingPage() {
       {/* Background Image - tagore-theme.png */}
       <div className="absolute inset-0 w-full h-full">
         <img
-          src="/tagore-theme.png"
+          src="/tagore-theme.jpg"
           alt="Tagore Theme Background"
           className="w-full h-full object-contain"
           style={{
