@@ -1,3 +1,7 @@
+/* Hide cursor when .hide-cursor is on body */
+body.hide-cursor, body.hide-cursor * {
+  cursor: none !important;
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
